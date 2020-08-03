@@ -3,7 +3,7 @@
 > The ATMegaZero is a microcontroller board based on the Atmel ATMega32U4 microchip, the same chip used in the Arduino Leonardo and Arduino Micro. It was modeled after the Raspberry PI Zero to take advantage of its sleek design and form factor but in the form of a microcontroller board.
 Similar to the Raspberry Pi Zero the ATMegaZero comes with 40 GPIO pins that can be used as input or output for interfacing devices and can be programmed using the Arduino IDE software.
 
-![ATMegaZero](/_media/atmegazero_next_to_coin.jpg)
+![ATMegaZero](./_media/atmegazero_next_to_coin.jpg)
 
 
 # Specifications
@@ -31,19 +31,19 @@ specs that makes this a great microcontroller board:
 
 # Main Components
 
-![ATMegaZero](/_media/atmegazero_features.png)
+![ATMegaZero](./_media/atmegazero_features.png)
 
 # Board Dimensions
-![ATMegaZero](/_media/atmegazero_dimensions.png)
+![ATMegaZero](./_media/atmegazero_dimensions.png)
 
 # GPIO Pinout
-![ATMegaZero](/_media/atmegazero_pinout.png)
+![ATMegaZero](./_media/atmegazero_pinout.png)
 
 # Photos
-![ATMegaZero](/_media/atmegazero_raspberrypizero2.jpg)
-![ATMegaZero](/_media/atmegazero_esp01.jpg)
-![ATMegaZero](/_media/atmegazero_bottom.jpg)
-![ATMegaZero](/_media/atmegazero_on_the_rock.jpg)
+![ATMegaZero](./_media/atmegazero_raspberrypizero2.jpg)
+![ATMegaZero](./_media/atmegazero_esp01.jpg)
+![ATMegaZero](./_media/atmegazero_bottom.jpg)
+![ATMegaZero](./_media/atmegazero_on_the_rock.jpg)
 
 # Setup & Sample Code
 
