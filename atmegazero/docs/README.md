@@ -58,8 +58,8 @@ specs that makes this a great microcontroller board:
 | +3V3 | **1** | 2 | +5v |
 | I2C-SDA | 3 | 4 | +5v |
 | I2C-SCL | 6 | 7 | GND |
-| HWB | 8 | 9 | TXD0 |
-| GND | 10 | 11 | RXD1 |
+| HWB | 8 | 9 | TXD1 |
+| GND | 10 | 11 | RXD0 |
 | D4 | 11 | 12 | D5 |
 | D8 | 13 | 14 | GND |
 | AREF | 15 | 16 | D7 |
