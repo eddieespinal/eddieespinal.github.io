@@ -47,9 +47,9 @@ specs that makes this a great microcontroller board:
 
 # Setup & Sample Code
 
-[Setup Instructions](/_setup_instructions.md)
+[Setup Instructions](/setup_instructions.md)
 <br>
-[Sample Code](/_sample_codes.md)
+[Sample Code](/sample_codes.md)
 
 # Pinouts
 
