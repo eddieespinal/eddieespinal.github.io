@@ -1,5 +1,3 @@
-<!-- _coverpage.md -->
-
 # ATMegaZero <small>v1.0</small>
 
 ![ATMegaZero](./media/atmegazero_yellow_background.jpg ':size=50%')
