@@ -13,13 +13,13 @@ specs that makes this a great microcontroller board:
 * Core: ATmega32U4 microcontroller running at 16MHz
 * Memory: 32KB Flash, 2.5KB SRAM, 1KB EEPROM
 * GPIO: 40 pins header
-* Digital I/O: 11
+* Digital I/O: 17
 * Analog Input: 6
 * GND pins: 8
 * +3V3 pins: 2
 * +5V pins: 2
-* ESP-01 GPIO pins: 2 (direct access to these two pins)
-* PWM Channels
+* ESP-01 GPIO pins: 2 (direct access to the ESP-01 GPIO pins)
+* PWM Channels: 7
 * Communication: UART/SPI/I2C
 * Micro SD Card module for saving data (read/write)
 * 32 pins OLED Display port (compatible with 30 pins SSD1306 & SSD1331)
@@ -30,14 +30,13 @@ specs that makes this a great microcontroller board:
 * Software: Works out of the box with the Arduino IDE (Win/OSX/Linux)
 
 # Main Components
-
 ![ATMegaZero](./media/atmegazero_features.png)
+
+# GPIO Pinout Diagram
+![ATMegaZero](./media/atmegazero_pinout_diagram.png ':size=80%')
 
 # Board Dimensions
 ![ATMegaZero](./media/atmegazero_dimensions.png)
-
-# GPIO Pinout
-![ATMegaZero](./media/atmegazero_pinout.png)
 
 # Photos
 ![ATMegaZero](./media/atmegazero_raspberrypizero2.jpg)
