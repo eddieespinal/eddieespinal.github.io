@@ -33,7 +33,7 @@ specs that makes this a great microcontroller board:
 ![ATMegaZero](./media/atmegazero_features.png)
 
 # GPIO Pinout Diagram
-![ATMegaZero](./media/atmegazero_pinout_diagram.png ':size=80%')
+![ATMegaZero](./media/atmegazero_pinout_diagram.jpg ':size=80%')
 
 # Board Dimensions
 ![ATMegaZero](./media/atmegazero_dimensions.png)
