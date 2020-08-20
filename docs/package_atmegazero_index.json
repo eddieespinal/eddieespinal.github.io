@@ -13,8 +13,8 @@
           "category": "Contributed",
           "url": "https://atmegazero.com/board/atmegazero-1.0.0.zip",
           "archiveFileName": "atmegazero-1.0.0.zip",
-          "checksum": "SHA-256:e30b3df294d899262f7247a9f9d14160f920b4fbbc2fea8225447527e2b7f381",
-          "size": "12342",
+          "checksum": "SHA-256:a5e606736de753844181ac4fa7c5d6174db0e30467be46b039334304219aff56",
+          "size": "12340",
           "boards": [
             {"name": "ATMegaZero"}
           ],
