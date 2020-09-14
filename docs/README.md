@@ -6,6 +6,7 @@ Similar to the Raspberry Pi Zero the ATMegaZero comes with 40 GPIO pins that can
 ![ATMegaZero](./media/atmegazero_front_coin.jpg)
 
 # ATMegaZero Press
+> Thank you all for supporting the ATMegaZero project.
 * [Hackster News](https://www.hackster.io/news/atmega32u4-raspberry-pi-zero-form-factor-atmegazero-3baa0edc65ef)
 * [electronics-lab](https://www.electronics-lab.com/meet-the-atmegazero-an-atmega32u4-with-a-raspberry-pi-zero-form-factor/)
 * [CNX-Software](https://www.cnx-software.com/2020/09/10/buy-atmegazero-arduino-raspberry-pi-zero-board/)
@@ -50,16 +51,11 @@ specs that makes this a great microcontroller board:
 ![ATMegaZero](./media/atmegazero_dimensions.png)
 
 # Photos
+![ATMegaZero](./media/atmegazero_front_back.jpg)
 ![ATMegaZero](./media/atmegazero_raspberrypizero2.jpg)
 ![ATMegaZero](./media/atmegazero_esp01.jpg)
-![ATMegaZero](./media/atmegazero_bottom.jpg)
+![ATMegaZero](./media/atmegazero_back_coin.jpg)
 ![ATMegaZero](./media/atmegazero_on_the_rock.jpg)
-
-# Setup & Sample Code
-
-[Setup Instructions](/setup_instructions.md)
-<br>
-[Sample Code](/sample_codes.md)
 
 # Pinouts
 
