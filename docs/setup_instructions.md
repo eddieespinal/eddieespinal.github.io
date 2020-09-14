@@ -12,10 +12,4 @@
 3. Install the ATMegaZero board.
 4. Close the Board Manager window and then go to Tools->Board->ATMegazero and select the ATMegaZero board.  
 ![Setup Instruction #3](/media/setup_instruction_3.png)  
-
-
-# Recommended Hardware
-
-> In order to program the ESP-01 module, you need to use a USB programmer similar to the one below. 
-
-![ESP8266 USB Programmer](./media/esp8266-programmer-usb.jpg)
+5. Done! - You are now ready to compile your sketches into the ATMegaZero board. Enjoy it!
