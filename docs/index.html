@@ -20,16 +20,23 @@
   
 </head>
 <body>
+  <nav>
+    <a href="#/setup_instructions">Setup Instructions</a>
+    <a href="#/sample_codes">Sample Codes</a>
+  </nav>
+
   <div id="app"></div>
   <script>
     window.$docsify = {
+      loadNavbar: true,
       auto2top: true,
       onlyCover: false,
       name: 'ATMegaZero',
       repo: 'https://github.com/eddieespinal/atmegazero',
       coverpage: {
         '/': 'cover.md',
-      }
+      },
+      logo: '/media/atmegazero_logo.png'
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
