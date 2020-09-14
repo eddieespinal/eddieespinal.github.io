@@ -17,6 +17,8 @@ Similar to the Raspberry Pi Zero the ATMegaZero comes with 40 GPIO pins that can
 * [Electromaker Show](https://www.youtube.com/watch?v=Dg6jNsKS504)
 * [Alex Glow - Hackster.io](https://youtu.be/Ul9aS_Bnx2c?t=137)
 
+# Support the ATMegaZero on GroupGets
+<iframe src="https://groupgets.com/widgets/campaign/822" frameborder="0" width="100%" height="585px"></iframe>
 
 # Specifications
 > The ATMegaZero was designed with makers in mind and here are some of the key
