@@ -1,5 +1,3 @@
-[Back home](/README.md)
-
 # Sample Code
 > Here are some sample code you can run on the ATMegaZero.
 
