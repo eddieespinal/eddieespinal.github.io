@@ -5,8 +5,6 @@ Similar to the Raspberry Pi Zero the ATMegaZero comes with 40 GPIO pins that can
 
 ![ATMegaZero](./media/atmegazero_vector_board.png ':size=80%')
 
-![ATMegaZero](./media/atmegazero_front_coin.jpg ':size=80%')
-
 # ATMegaZero Press
 > Thank you all for supporting the ATMegaZero project.
 * [Hackster News](https://www.hackster.io/news/atmega32u4-raspberry-pi-zero-form-factor-atmegazero-3baa0edc65ef)
@@ -25,6 +23,8 @@ Similar to the Raspberry Pi Zero the ATMegaZero comes with 40 GPIO pins that can
 # Specifications
 > The ATMegaZero was designed with makers in mind and here are some of the key
 specs that makes this a great microcontroller board:
+
+![ATMegaZero](./media/atmegazero_front_coin.jpg ':size=80%')
 
 * Core: ATmega32U4 microcontroller running at 16MHz
 * Memory: 32KB Flash, 2.5KB SRAM, 1KB EEPROM
