@@ -1,3 +1,5 @@
+![ATMegaZero](./media/atmegazero_vector_board.png ':size=80%')
+
 # Introduction to the ATMegaZero
 
 > The ATMegaZero is a microcontroller board based on the Atmel ATMega32U4 microchip, the same chip used in the Arduino Leonardo and Arduino Micro. It was modeled after the Raspberry PI Zero to take advantage of its sleek design and form factor but in the form of a microcontroller board.
