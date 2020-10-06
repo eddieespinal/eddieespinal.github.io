@@ -6,43 +6,65 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/dark.css">
 
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-174925859-1"></script>
+  <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=UA-174925859-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
 
     gtag('config', 'UA-174925859-1');
-  </script>
+  </script> -->
   
 </head>
 <body>
   <nav>
-    <a href="#/README">Home</a>
-    <a href="https://shop.atmegazero.com">Online Store</a>
-    <a href="#/setup_instructions">Setup Instructions</a>
-    <a href="#/sample_codes">Sample Codes</a>
-    <a href="#/esp8266">ESP8266</a>
+    <a href="#/home">Home</a>
+    <a href="https://shop.atmegazero.com" target="_blank">Online Store</a>
     <a href="#/recommended_hardware">Recommended Hardware</a>
   </nav>
 
   <div id="app"></div>
   <script>
     window.$docsify = {
+      homepage: 'home.md',
       loadNavbar: true,
+      ga: 'UA-174925859-1',
       auto2top: true,
-      onlyCover: false,
-      coverpage: false,
-      name: 'ATMegaZero',
       repo: 'https://github.com/eddieespinal/atmegazero',
-      logo: '/media/atmegazero_logo.png'
+      // logo: 'https://github.com/eddieespinal/eddieespinal.github.io/raw/master/docs/media/atmegazero_logo.png',
+      hideSidebar: false,
+      loadSidebar: true,
+      subMaxLevel: 0,
+      pagination: {
+        crossChapter: true,
+        crossChapterText: true,
+      },
+      search: {
+        maxAge: 86400000, // Expiration time, the default one day
+        placeholder: 'Search...',
+        noData: 'Nothing found, please try something else.',
+        depth: 6,
+        hideOtherSidebarContent: false,
+      },
+      tabs: {
+        persist: true,
+        sync: false,
+        tabComments: true,
+        tabHeadings: true,
+      }
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-bash.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-php.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-python.min.js"></script>
+
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/ga.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
 </body>
 </html>
