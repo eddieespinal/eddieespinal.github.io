@@ -1,6 +1,6 @@
 # ATMegaZero LIPO Battery Shield Overview
 
-!> Now you can take your projects on the go with this new shiled for the ATMegaZero or the Raspberry Pi.
+!> Now you can take your projects on the go with this new shield for the ATMegaZero or the Raspberry Pi.
 
 [Buy it from the ATMegaZero Online Store](https://shop.atmegazero.com/products/atmegazero-lipo-battery-shield)
 
