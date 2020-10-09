@@ -9,7 +9,7 @@ Similar to the Raspberry Pi Zero the ATMegaZero comes with 40 GPIO pins that can
 
 # :fas fa-people-arrows: - What is the difference between the Raspberry Pi and the ATMegaZero?
 
-The Raspberry Pi is a linux computer which you can use to browse the web, word processing, gaming, etc.. It's perfect for many projects that requries a lot of power.  On the other hand, the ATMegaZero is a microcontroller similar to the Arduino board which you can use for simpler tasks that doesn't necessarely requires a lot of processing power but that is reliable. e.g. Home Automations, Robotics, DIY projects, control relays, servo, read sensor data, and also log data to the integrated SD card.
+The Raspberry Pi is a linux computer which you can use to browse the web, word processing, gaming, etc.. It's perfect for many projects that requires a lot of power. On the other hand, the ATMegaZero is a microcontroller similar to the Arduino board which you can use for simpler tasks that doesn't necessarily requires a lot of processing power but that is reliable. e.g. Home Automations, Robotics, DIY projects, control relays, servo, read sensor data, and also log data to the integrated SD card.
 
 # :fas fa-question: - What can you do with an ATMegaZero that you can't do with a Raspberry Pi? 
 
