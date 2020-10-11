@@ -19,6 +19,7 @@
   * [Blink LED Demo](blink_demo.md "ATMegaZero - Blink LED Sample Code")
   * [SD Card Demo](sd_card_demo.md "ATMegaZero - SD Card Sample Code")
   * [OLED Display Demo](oled_display_demo.md "ATMegaZero - OLED Display Sample Code")
+  * [i2c Scanner](i2c_scanner.md "ATMegaZero - i2c Scanner Sample Code")
 * **ESP8266 Module**
   * [Overview](esp8266_overview.md "ATMegaZero - ESP8266 Overview")
   * [ESP8266 Setup](esp8266_setup.md "ATMegaZero - ESP8266 Setup Instructions")
