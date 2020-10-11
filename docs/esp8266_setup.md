@@ -29,7 +29,7 @@ void setup() {
     ; // wait for serial port to connect.
   }
   
-  Serial.println("Connecting to the ESP Module");
+  Serial.println("Initializing");
   
   // set the data rate for the SoftwareSerial port
   espSerial.begin(115200);
