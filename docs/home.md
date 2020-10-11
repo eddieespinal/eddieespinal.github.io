@@ -21,7 +21,7 @@ The Raspberry Pi is a linux computer which you can use to browse the web, word p
 
 # :fas fa-layer-group: - Can I combine them together? Use the ATMegaZero as a HAT?
 
-You can, but you have to be very cautious as this can burn your Raspberry Pi since it runs on 3.3v logic and the ATMegaZero runs on 5v logic. The way we got it to work successfully was via i2c by setting the Raspberry Pi as the Master and the ATMegaZero as the slave. That helped ensure that the communication between the Pi and the ATMegaZero was done at 3.3v and not 5v.
+You can, but you have to be very cautious as this can burn your Raspberry Pi since it runs on 3.3v logic and the ATMegaZero runs at 5v logic. The way we got it to work successfully was via i2c by setting the Raspberry Pi as the Master and the ATMegaZero as the slave. That helped ensure that the communication between the Pi and the ATMegaZero was done at 3.3v and not 5v.
 
 We are working on a shield that will be sandwich between the Raspberry Pi and the ATMegaZero that will have bi-directional level shifters and allow you to communicate via i2c and serial connection.
 

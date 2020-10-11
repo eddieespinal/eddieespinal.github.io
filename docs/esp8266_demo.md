@@ -1,3 +1,3 @@
-# ESP8266 (ESP-01S) Setup Instructions
+# ESP8266 Demo
 
 > Coming Soon!

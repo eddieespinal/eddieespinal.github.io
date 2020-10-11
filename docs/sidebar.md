@@ -19,6 +19,9 @@
   * [Blink LED Demo](blink_demo.md "ATMegaZero - Blink LED Sample Code")
   * [SD Card Demo](sd_card_demo.md "ATMegaZero - SD Card Sample Code")
   * [OLED Display Demo](oled_display_demo.md "ATMegaZero - OLED Display Sample Code")
+* **ESP8266 Module**
+  * [Overview](esp8266_overview.md "ATMegaZero - ESP8266 Overview")
+  * [ESP8266 Setup](esp8266_setup.md "ATMegaZero - ESP8266 Setup Instructions")
   * [ESP8266 Demo](esp8266_demo.md "ATMegaZero - ESP8266 Sample Code")
   
 * **LIPO Battery Shield**
