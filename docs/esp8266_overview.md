@@ -2,6 +2,8 @@
 
 The ESP8266 WiFi Module is a self contained SOC with integrated TCP/IP protocol stack that can give any microcontroller access to your WiFi network. The ESP8266 is capable of either hosting an application or offloading all WiFi networking functions from another application processor. Each ESP8266 module comes pre-programmed with an AT command set firmware, meaning, you can simply connect it to the ATMegaZero and write some AT Commands to get you connected to the internet. The ESP8266 module is an extremely cost effective board with a huge, and ever growing, community.
 
+![ATMegaZero](./media/atmegazero_esp01_highlight.jpg)
+
 !>The ESP8266 used for the ATMegaZero is the ESP-01(S). We encourage to use the latest model which is the ESP-01S instead of the ESP-01. Both will work, but for best results please use the latest model.
 
 # 🚨 Important read this first 🚨 
