@@ -1,4 +1,14 @@
 ### OLED Display
+
+The ATMegaZero comes with an integrated display FPC Connector which you can use to connect a `128x64 pixel OLED display`.
+
+# How do you connect the OLED display?
+> To connect the OLED display, gently pull up the black release lever on the FPC connector. Insert the OLED display connector with the screen facing down as shown in the video below.
+
+![ATMegaZero OLED Display](/media/clipping_oled_display.gif)
+
+# Sample Code
+
 > Copy and paste this code to display data on the OLED display connected to the FCP connector on the ATMegaZero board.
 
 [Buy it from the ATMegaZero Online Store](https://shop.atmegazero.com/products/128x64-0-96-oled-display)
