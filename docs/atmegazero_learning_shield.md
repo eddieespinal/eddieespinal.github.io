@@ -6,12 +6,12 @@
 
 # Features:
 * Includes 3 programmable LEDs to learn about outputs
-    * Red `(GPIO - D13)`
-    * Yellow `(GPIO - D12)`
-    * Green `(GPIO - D10)`
+    * Red `(GPIO - A0)`
+    * Yellow `(GPIO - A1)`
+    * Green `(GPIO - A2)`
 * Includes 1 active buzzer connected to a PWM pin to make melodies
     * Buzzer `(GPIO - D6)`
 * Includes 1 push button to learn about input
     * Push Button `(GPIO - D7)`
 
-![ATMegaZero Learning Shield](./media/atmegazero-learning-shield-placeholder2.jpg)
+![ATMegaZero Learning Shield](./media/atmegazero_learning_shield_female_header_green.jpg)
