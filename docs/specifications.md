@@ -7,7 +7,7 @@ specs that makes this a great microcontroller board:
 * Core: ATmega32U4 microcontroller running at 16MHz
 * Memory: 32KB Flash, 2.5KB SRAM, 1KB EEPROM
 * GPIO: 40 pins header
-* Digital I/O: 17
+* Digital I/O: 20
 * Analog Input: 6
 * GND pins: 8
 * +3V3 pins: 2

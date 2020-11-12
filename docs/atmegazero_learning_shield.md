@@ -1,6 +1,6 @@
 # ATMegaZero Learning Shield
 
-!> Sometimes all it takes is a simple project to get starter tinkering with electronics.  I’m hoping that this little project will help you do that 🤓. 
+!> Sometimes all it takes is a simple project to get started tinkering with electronics.  I’m hoping that this little project will help you do that 🤓. 
 
 [Buy it from the ATMegaZero Online Store](https://shop.atmegazero.com/products/atmegazero-learning-shield)
 

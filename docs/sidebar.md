@@ -33,6 +33,7 @@
 * **Learning Shield**
   * [Overview](atmegazero_learning_shield.md "ATMegaZero - Learning Shield")
   * [Learning Shield Demo](atmegazero_learning_shield_demo.md "ATMegaZero - Learning Shield Sample Code")
+  * [Learning Shield Rpi Demo](atmegazero_learning_shield_rpi_demo.md "ATMegaZero - Learning Shield Sample Code for the Raspberry Pi")
 
 * **About**
   * [About Me](about.md "ATMegaZero - About the creator")

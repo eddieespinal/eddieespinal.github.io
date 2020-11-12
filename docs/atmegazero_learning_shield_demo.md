@@ -2,6 +2,55 @@
 
 > This example code is for testing all of the features of the ATMegaZero Learning Shield.
 
+# LED Demo
+
+```clike
+/*
+ * This example code is for testing all of LEDs on the ATMegaZero Learning Shield.
+ * 
+ * You can purchase one of the ATMegaZero Learning Shield from the ATMegaZero Online Store at:
+ * https://shop.atmegazero.com/products/atmegazero-learning-shield
+ * 
+ * For full documentation please visit https://atmegazero.com
+ */
+ 
+// Learning Shield Pins
+const int GREEN_LED_PIN = A2;
+const int YELLOW_LED_PIN = A1;
+const int RED_LED_PIN = A0;
+
+void setup()
+{
+  //Setup pin modes
+  pinMode(GREEN_LED_PIN, OUTPUT);
+  pinMode(YELLOW_LED_PIN, OUTPUT);
+  pinMode(RED_LED_PIN, OUTPUT);
+}
+
+void loop() {
+  // Turn LED ON
+  digitalWrite(GREEN_LED_PIN, HIGH);
+  delay(1000);
+  digitalWrite(YELLOW_LED_PIN, HIGH);
+  delay(1000);
+  digitalWrite(RED_LED_PIN, HIGH);
+  delay(1000);
+
+  // Turn LED OFF
+  digitalWrite(GREEN_LED_PIN, LOW);
+  delay(1000);
+  digitalWrite(YELLOW_LED_PIN, LOW);
+  delay(1000);
+  digitalWrite(RED_LED_PIN, LOW);
+  delay(1000);
+}
+
+```
+
+# Buzzer Demo
+
+> You can find more sample songs here: https://github.com/robsoncouto/arduino-songs, make sure to update the buzzer pin number to pin #6 when you use these examples as they are using pin 11 and the Learning Shield is connected to pin #6.
+
 ```clike
 /*
  * This example code is for testing all of the features of the ATMegaZero Learning Shield.
@@ -9,7 +58,7 @@
  * https://github.com/JChristensen/JC_Button
  * 
  * You can purchase one of the ATMegaZero Learning Shield from the ATMegaZero Online Store at:
- * https://shop.atmegazero.com
+ * https://shop.atmegazero.com/products/atmegazero-learning-shield
  * 
  * For full documentation please visit https://atmegazero.com
  */
@@ -185,4 +234,45 @@ void secondSection()
   delay(350);
 }
 
+```
+
+# Push Button Demo
+
+```clike
+/*
+ * This example code is for testing the push button on the ATMegaZero Learning Shield.
+ * 
+ * You can purchase one of the ATMegaZero Learning Shield from the ATMegaZero Online Store at:
+ * https://shop.atmegazero.com/products/atmegazero-learning-shield
+ * 
+ * For full documentation please visit https://atmegazero.com
+ */
+ 
+// Learning Shield Pins
+const int BUTTON_PIN = 7; //D7
+const int GREEN_LED_PIN = A2;
+
+// Variables will change:
+int lastState = LOW;
+int currentState;
+
+void setup()
+{
+  // The pull-up input pin will be HIGH when the switch is open and LOW when the switch is closed.
+  pinMode(BUTTON_PIN, INPUT_PULLUP);
+  pinMode(GREEN_LED_PIN, OUTPUT);
+}
+
+void loop() {
+  int currentState = digitalRead(BUTTON_PIN);
+
+  if (lastState == LOW && currentState == HIGH) {
+    digitalWrite(GREEN_LED_PIN, LOW);
+  } else if (lastState == HIGH && currentState == LOW)  {
+    digitalWrite(GREEN_LED_PIN, HIGH);
+  }
+
+  // save the the last state
+  lastState = currentState;
+}
 ```

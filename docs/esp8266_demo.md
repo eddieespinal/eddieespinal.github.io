@@ -93,4 +93,4 @@ void printWifiStatus()
 ```
 
 # Troubleshooting
-!>Please Note: it may take a few tries before the ESP8266 module returns the correct IP Address. Compile the project again if it's not conencting properly. Also, make sure you follow the setup instructions that configures the WiFi module to communicate at `9600 baud rate` which is required for Software Serial communication.
+!>Please Note: it may take a few tries before the ESP8266 module returns the correct IP Address. Compile the project again if it's not connencting properly. Also, make sure you follow the setup instructions that configures the WiFi module to communicate at `9600 baud rate` which is required for Software Serial communication.
