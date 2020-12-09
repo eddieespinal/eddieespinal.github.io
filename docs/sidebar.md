@@ -11,9 +11,6 @@
   * [Components](components.md "ATMegaZero - Components")
   * [Press](press.md "ATMegaZero - Press")
   * [Photos](photos.md "ATMegaZero - Photos")
-
-* **GroupGets Campaign**
-  * [Campaign Timeline](groupgets_campaign.md "ATMegaZero - GroupGets Campaign Status")
   
 * **Sample Codes**
   * [Blink LED Demo](blink_demo.md "ATMegaZero - Blink LED Sample Code")
@@ -25,6 +22,10 @@
   * [ESP8266 Setup](esp8266_setup.md "ATMegaZero - ESP8266 Setup Instructions")
   * [ESP8266 Demo](esp8266_demo.md "ATMegaZero - ESP8266 Sample Code")
   
+* **ATMegaZero RTC Shield**
+  * [Overview](atmegazero_rtc_shield_overview.md "ATMegaZero - RTC Shield Overview")
+  * [RTC Shield Demo](atmegazero_rtc_shield_demo.md "ATMegaZero - RTC Shield Sample Code")
+  * [RTC Shield Python Demo](atmegazero_rtc_shield_rpi_demo.md "ATMegaZero - RTC Shield Python Sample Code")
 * **LIPO Battery Shield**
   * [Overview](lipo_battery_overview.md "ATMegaZero – LIPO Battery Overview")
   * [LIPO Battery Demo](lipo_battery_demo.md "ATMegaZero - LIPO Battery Shield Sample Code")
