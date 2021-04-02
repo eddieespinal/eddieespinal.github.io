@@ -21,7 +21,11 @@
   * [Overview](esp8266_overview.md "ATMegaZero - ESP8266 Overview")
   * [ESP8266 Setup](esp8266_setup.md "ATMegaZero - ESP8266 Setup Instructions")
   * [ESP8266 Demo](esp8266_demo.md "ATMegaZero - ESP8266 Sample Code")
-  
+
+* **ATMegaZero Sensors Shield**
+  * [Overview](atmegazero_sensors_shield_overview.md "ATMegaZero - Sensors Shield Overview")
+  * [Sensors Shield Demo](atmegazero_sensors_shield_demo.md "ATMegaZero - Sensors Shield Sample Code")
+
 * **ATMegaZero RTC Shield**
   * [Overview](atmegazero_rtc_shield_overview.md "ATMegaZero - RTC Shield Overview")
   * [RTC Shield Demo](atmegazero_rtc_shield_demo.md "ATMegaZero - RTC Shield Sample Code")
