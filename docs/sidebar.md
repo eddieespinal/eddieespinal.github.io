@@ -5,6 +5,14 @@
 
 * **Overview**
   * [Home](home.md "ATMegaZero – Documentation")
+  
+* **ATMegaZero ESP32-S2 (New)**
+  * [Overview](atmegazero_esp32s2_overview.md "ATMegaZero - ESP32-S2 Overview")
+  * [Specifications](atmegazero_esp32s2_specifications.md "ATMegaZero ESP32-S2 - Specifications")
+  * [Setup Instructions](atmegazero_esp32s2_setup_instructions.md "ATMegaZero ESP32-S2 – Setup Instructions")
+  * [Press](atmegazero_esp32s2_press.md "ATMegaZero ESP32-S2 - Press")
+
+* **ATMegaZero 32u4**
   * [Specifications](specifications.md "ATMegaZero - Specifications")
   * [Setup Instructions](setup_instructions.md "ATMegaZero – Setup Instructions")
   * [GPIO Pinout](gpio_pinout.md "ATMegaZero - GPIO Pinout")
@@ -39,6 +47,3 @@
   * [Overview](atmegazero_learning_shield.md "ATMegaZero - Learning Shield")
   * [Learning Shield Demo](atmegazero_learning_shield_demo.md "ATMegaZero - Learning Shield Sample Code")
   * [Learning Shield Rpi Demo](atmegazero_learning_shield_rpi_demo.md "ATMegaZero - Learning Shield Sample Code for the Raspberry Pi")
-
-* **About**
-  * [About Me](about.md "ATMegaZero - About the creator")
