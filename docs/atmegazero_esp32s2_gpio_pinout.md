@@ -1,4 +1,4 @@
-# GPIO Pinouts
+# ATMegaZero ESP32-S2 GPIO Pinouts
 
 ?> The ATMegaZero comes with 40 GPIO pins that can be used as input or output for interfacing devices and can be programmed using the Arduino IDE software.
 
