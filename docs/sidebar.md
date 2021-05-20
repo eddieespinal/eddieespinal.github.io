@@ -1,7 +1,5 @@
 [![logo](./media/atmegazero_logo_white.png)](/  "ATMegaZero Official Site!")
 
-* **Online Store**
-  * [Shop](https://shop.atmegazero.com)
 
 * **Overview**
   * [Home](home.md "ATMegaZero – Documentation")
@@ -10,6 +8,7 @@
   * [Overview](atmegazero_esp32s2_overview.md "ATMegaZero - ESP32-S2 Overview")
   * [Specifications](atmegazero_esp32s2_specifications.md "ATMegaZero ESP32-S2 - Specifications")
   * [Setup Instructions](atmegazero_esp32s2_setup_instructions.md "ATMegaZero ESP32-S2 – Setup Instructions")
+  * [GPIO Pinout](atmegazero_esp32s2_gpio_pinout.md "ATMegaZero ESP32-S2 - GPIO Pinout")
   * [Press](atmegazero_esp32s2_press.md "ATMegaZero ESP32-S2 - Press")
 
 * **ATMegaZero 32u4**
