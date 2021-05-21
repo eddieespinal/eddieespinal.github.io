@@ -1,8 +1,8 @@
 # ATMegaZero Sensors Shield
 
-!> Compatible with the Raspberry Pi Zero/Zero W/Zero WH/2B/3B
+?> Compatible with the Raspberry Pi Zero/Zero W/Zero WH/2B/3B
 
-![ATMegaZero](./media/atmegazero_sensors_shield_holding_it.jpg)
+![ATMegaZero](./media/atmegazero_sensors_shield_ice.jpg)
 
 The ATMegaZero Sensors shield comes jam-packed with sensors to monitor the environment.
 
