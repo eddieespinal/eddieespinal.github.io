@@ -13,8 +13,8 @@
 || GPIO34           | :white_circle:       | :black_circle:      | GND                        ||
 || GPIO14           | :white_circle:       | :white_circle:      | GPIO4                      ||
 || 3.3v             | :red_circle:         | :white_circle:      | GPIO2                      ||
-|SPI-MOSI| GPIO37   | :large_blue_circle:  | :black_circle:      | GND                        ||
-|SPI-MISO| GPIO35   | :large_blue_circle:  | :white_circle:      | GPIO7                      ||
+|SPI-MOSI| GPIO35   | :large_blue_circle:  | :black_circle:      | GND                        ||
+|SPI-MISO| GPIO37   | :large_blue_circle:  | :white_circle:      | GPIO7                      ||
 |SPI-SCLK| GPIO36   | :large_blue_circle:  | :large_blue_circle: | GPIO38                     |SPI-CS0|
 || GND              | :black_circle:       | :white_circle:      | GPIO21                     ||
 || RESET            | :x:                  | :x:                 |                            ||
