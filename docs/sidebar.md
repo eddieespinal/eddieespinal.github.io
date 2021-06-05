@@ -32,6 +32,7 @@
 * **ATMegaZero Relay Shield**
   * [Overview](atmegazero_relay_shield_overview.md "ATMegaZero - Relay Shield Overview")
   * [Relay Shield Demo](atmegazero_relay_shield_demo.md "ATMegaZero - Relay Shield Sample Code")
+  * [Relay Shield Rpi Demo](atmegazero_relay_shield_rpi_demo.md "ATMegaZero - Relay Shield Sample Code for the Raspberry Pi")
 
 * **ATMegaZero Sensors Shield**
   * [Overview](atmegazero_sensors_shield_overview.md "ATMegaZero - Sensors Shield Overview")
