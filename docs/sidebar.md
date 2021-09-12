@@ -6,6 +6,7 @@
   
 * **ATMegaZero ESP32-S2 (New)**
   * [Overview](atmegazero_esp32s2_overview.md "ATMegaZero - ESP32-S2 Overview")
+  * [Videos](atmegazero_esp32s2_videos.md "ATMegaZero ESP32-S2 - Videos")
   * [Specifications](atmegazero_esp32s2_specifications.md "ATMegaZero ESP32-S2 - Specifications")
   * [Setup Instructions](atmegazero_esp32s2_setup_instructions.md "ATMegaZero ESP32-S2 – Setup Instructions")
   * [GPIO Pinout](atmegazero_esp32s2_gpio_pinout.md "ATMegaZero ESP32-S2 - GPIO Pinout")
